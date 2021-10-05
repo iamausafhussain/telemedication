@@ -115,7 +115,7 @@ export default function SearchAppBar() {
               >
                 <Avatar
                   alt="Remy Sharp"
-                  src="https://scontent.fbbi1-2.fna.fbcdn.net/v/t1.6435-9/80873065_2608610729424528_3731380935799603200_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=cFcyKr1IIwIAX9JJWPz&_nc_ht=scontent.fbbi1-2.fna&oh=80ad00680e94305a50f80d2cfaad3308&oe=617D7248"
+                  src="https://scontent.fbbi1-1.fna.fbcdn.net/v/t1.6435-9/38975544_349289232277253_7079712610555265024_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=a4a2d7&_nc_ohc=5464EYhXg1AAX8Y2aqF&_nc_ht=scontent.fbbi1-1.fna&oh=7543305127a37dff1e71b5c8837bbefe&oe=6180DDA1"
                 />
               </IconButton>
               <Menu
