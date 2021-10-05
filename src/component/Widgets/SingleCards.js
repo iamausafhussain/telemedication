@@ -3,7 +3,7 @@ import React from 'react'
 function SingleCards() {
   return (
     <div className='singleCards'>
-      <h1>Hello from Telemedication Cards.</h1>
+      <h1>Hello from Farhan Cards.</h1>
     </div>
   )
 }
