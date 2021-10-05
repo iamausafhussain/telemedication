@@ -3,10 +3,10 @@ import SingleCards from "./SingleCards";
 
 function Cards() {
   return (
-    <div>
+    <div className="cards">
       <SingleCards />
-      <SingleCards />
-      <SingleCards />
+      {/* <SingleCards />
+      <SingleCards /> */}
     </div>
   );
 }
